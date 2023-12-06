@@ -11,8 +11,8 @@
 </div>
 
 <h1 align="center">
-    <em> ✔️ Don't wait for your success to come your way 🚀 </em>
-    <em> ✔️ Seek your own opportunities 🚀 </em>
+  There are no limits. There are only plateaus, and you must not stay there — you must go beyond them.
+    <em> ✔️ There are no limits. There are only plateaus, and you must not stay there — you must go beyond them. 🚀 </em>
 </h1>
 
 <div align="center">

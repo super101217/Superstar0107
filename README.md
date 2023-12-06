@@ -1,6 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+<meta name="react-developer-portfolio"/>
+<meta name="react"/>
+<meta name="next"/>
+<meta name="vue" />
+<meta name="front-end" />
+<meta name="back-end" />
+<meta name="full-stack"/>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">
+    <em> ✔️ Don't wait for your success to come your way 🚀 </em>
+    <em> ✔️ Seek your own opportunities 🚀 </em>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

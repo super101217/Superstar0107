@@ -11,7 +11,6 @@
 </div>
 
 <h1 align="center">
-  There are no limits. There are only plateaus, and you must not stay there — you must go beyond them.
     <em> ✔️ There are no limits. There are only plateaus, and you must not stay there — you must go beyond them. 🚀 </em>
 </h1>
 
